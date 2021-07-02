@@ -7,7 +7,7 @@ The objective is to identify the tweet has a positive sentiment or a negative on
 The sample dataset from NLTK is separated into positive and negative tweets. It contains 5000 positive tweets and 5000 negative tweets exactly. The exact match between these classes is not a coincidence. This dataset has been manually annotated and serves to establish baselines for models quickly. The intention is to have a balanced dataset. That does not reflect the real distributions of positive and negative classes in live Twitter streams. It is just because balanced datasets simplify the design of most computational methods that are required for sentiment analysis.
 
 # Overview
-I. Preprocess raw text
+I. Preprocess raw text: 
 Data preprocessing is one of the critical steps in any machine learning project. It includes cleaning and formatting the data before feeding into a machine learning algorithm. For NLP, the preprocessing steps are comprised of the following tasks:
 
 * Tokenizing the string
